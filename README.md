@@ -10,8 +10,8 @@
  <img alt="Javascript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"/>
  <img alt="Vs Code" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
  <img alt="SQL Oracle" width="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png"/> 
- <img alt="MongoDB" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" />
- <img alt="NodeJS" width="100px" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
+ <img alt="MongoDB" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" />
+ <img alt="NodeJS" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
  <img alt="ReactJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
- <img alt="ExpressJS" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"/> 
+ <img alt="ExpressJS" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"/> 
 </div>
