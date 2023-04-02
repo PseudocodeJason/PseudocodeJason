@@ -2,7 +2,7 @@
 <h3 align="center"> Full Stack Web Developer </h3> 
 
 - 📈 I am always learning new skills. Learning never ends!
-- 🎓 Currently at my final semester of Computer Programming
+- 🎓 Currently doing my Final Semester of Computer Programming
 
 ### Languages, Libraries and Tools
 <div>
