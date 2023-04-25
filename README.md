@@ -1,8 +1,8 @@
 <h1 align= "center" > Hello, folks! My Name is <a href="https://www.linkedin.com/in/halfstack/"> Jason Tieu </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<h3 align="center"> Full Stack Web Developer </h3> 
+<h3 align="center"> Full Stack Web Developer / Software Developer </h3> 
 
 - 📈 I am always learning new skills. Learning never ends!
-- 🎓 Currently doing my Final Semester of Computer Programming
+- 🎓 Graduating Computer Programming 
 
 ### Languages, Libraries and Tools
 <div>
