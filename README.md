@@ -9,7 +9,7 @@
  <img alt="Python" width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
  <img alt="Javascript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"/>
  <img alt="Vs Code" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
- <img alt="SQL Oracle" width="50px" src="https://www.clipartmax.com/png/middle/216-2162261_vector-sql-server-icon-image-oracle-sql-developer-icon.png"/> 
+ <img alt="SQL Oracle" width="50px" src="https://www.clipartmax.com/middle/m2i8A0G6A0N4N4i8_vector-sql-server-icon-image-oracle-sql-developer-icon/"/> 
  <img alt="MongoDB" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" />
  <img alt="NodeJS" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
  <img alt="ReactJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
