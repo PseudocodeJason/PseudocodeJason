@@ -2,7 +2,7 @@
 <h3 align="center"> Full Stack Web Developer / Software Developer </h3> 
 
 - 📈 I am always learning new skills. Learning never ends!
-- 🎓 Graduating Computer Programming 
+- 🎓 Computer Programming Graduate 
 
 ### Languages, Libraries and Tools
 <div>
